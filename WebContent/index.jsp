@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to Capgemini : This build test from jenkins
+Welcome to Capgemini 
 <center>
 <h1>Display Current Date & Time</h1>
 </center>
@@ -15,5 +15,7 @@ Welcome to Capgemini : This build test from jenkins
    Date date = new Date();
    out.print( "<h2 align=\"center\">" +date.toString()+"</h2>");
 %>
+
+this is just a test page to check changes
 </body>
 </html>
